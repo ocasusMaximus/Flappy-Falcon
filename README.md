@@ -1,4 +1,6 @@
 # Flappy Falcon
+[![Java](https://img.shields.io/badge/Java-31487f?style=for-the-badge&logo=Java&logoColor=e9dc14)](https://www.java.com/en/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-31487f?style=for-the-badge&logo=opengl&logoColor=e9dc14)](https://www.opengl.org)
 ![Menu](readmepics/FlappyFalconMenu.PNG)
 My first try of game dev. written with help of jogl-2.0 and my friend [xmannm](https://github.com/xmannm), who made those kick-ass star wars looking textures.
 If you want to make something with the code you need jogl-2.0 library which was locally added but already lost.
